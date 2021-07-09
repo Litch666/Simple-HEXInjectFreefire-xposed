@@ -1,0 +1,2 @@
+@ECHO off
+C:\Users\Mr_S0beit\AppData\Local\Android\Sdk\ndk-bundle\ndk-build NDK_PROJECT_PATH=C:\Users\Mr_S0beit\AndroidStudioProjects\SHXTeamModMenu APP_BUILD_SCRIPT=C:\Users\Mr_S0beit\AndroidStudioProjects\SHXTeamModMenu\app\src\main\jni\Android.mk NDK_APPLICATION_MK=C:\Users\Mr_S0beit\AndroidStudioProjects\SHXTeamModMenu\app\src\main\jni\Application.mk
